@@ -23,7 +23,7 @@ public class Processor implements Callable<String> {
 		
 		Thread.sleep(2000);
 
-		return "Id being processed is: "+this.id+"Which was processed by:"+Thread.currentThread().getId();
+		return "Id being processed is: "+this.id+" Which was processed by:"+Thread.currentThread().getId();
 	}
 
 }
