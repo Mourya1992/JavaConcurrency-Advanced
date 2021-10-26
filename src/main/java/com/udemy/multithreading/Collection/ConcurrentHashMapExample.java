@@ -1,4 +1,4 @@
-package com.udemy.multithreading.Executors;
+package com.udemy.multithreading.Collection;
 
 import java.util.Random;
 import java.util.UUID;
